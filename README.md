@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Vishwakarma</h1>
 <h3 align="center">Dedicated Programmer With A Love For Innovation</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMohan-duhan%2FMohan-duhan&psig=AOvVaw0VQrdC25Vr-jKu4cSp5Jnh&ust=1737361049892000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi44MusgYsDFQAAAAAdAAAAABA1" alt="">
 - 💻 I’m currently learning **Data structures & Algorithms**
 
 - 💬 Ask me about **Python, MySQL, C++ and DSA**
